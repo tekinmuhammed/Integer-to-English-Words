@@ -97,7 +97,7 @@ if __name__ == "__main__":
     while True:
         user_input = input("Enter an integer (or type 'exit' to quit): ")
         if user_input.lower() == "exit":
-            print("Goodbye!  '@tekinmuhammed' ")
+            print("Goodbye!   '@tekinmuhammed' ")
             break
         try:
             num = int(user_input)
